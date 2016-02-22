@@ -1,0 +1,37 @@
+[
+  {
+    "ip": "174.26.136.249",
+    "created": "2015-12-15 19:41:57 -0500",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "73.10.83.0",
+    "created": "2015-12-18 21:08:17 -0500",
+    "source": "omgimanerd1998",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "98.167.52.77",
+    "created": "2015-12-18 23:20:38 -0500",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "76.127.126.201",
+    "created": "2015-12-18 23:20:52 -0500",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "173.2.243.191",
+    "created": "2015-12-26 17:56:30 -0500",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

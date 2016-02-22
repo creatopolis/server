@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "42653081-a90e-3475-b3d6-3550cdb43f8e",
+    "name": "notch",
+    "created": "2015-12-20 13:49:42 -0500",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "Invalid username!"
+  },
+  {
+    "uuid": "f84c6a79-0a4e-45e0-879b-cd49ebd4c4e2",
+    "name": "Herobrine",
+    "created": "2015-12-20 13:49:56 -0500",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "Invalid username"
+  },
+  {
+    "uuid": "0fdcf7ef-3282-3ba1-96cf-f93a65e28576",
+    "name": "HunterTooChillz",
+    "created": "2015-12-18 21:08:06 -0500",
+    "source": "§C[Owner]§r omgimanerd1998§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]
