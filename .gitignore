@@ -1,3 +1,6 @@
+/backups
+/logs
+/plugins
 *.jar
 *.db
 *.zip
